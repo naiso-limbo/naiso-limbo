@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nasio-limbo
+- 👋 Hi, I’m @naiso-limbo
 - 👀 I’m interested in iOS
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS App dev
-- 📫 How to reach me nasio.limbo@outlook.com
+- 📫 How to reach me naiso.limbo@outlook.com
 
 <!---
 nasio-limbo/nasio-limbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
