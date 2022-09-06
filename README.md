@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naiso-limbo
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on iOS App dev
 - 📫 How to reach me naiso.limbo@outlook.com
 
